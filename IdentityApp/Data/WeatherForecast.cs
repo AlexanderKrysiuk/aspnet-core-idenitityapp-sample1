@@ -1,4 +1,4 @@
-namespace IdentityApp.Data;
+﻿namespace IdentityApp.Data;
 
 public class WeatherForecast
 {
@@ -10,3 +10,4 @@ public class WeatherForecast
 
     public string? Summary { get; set; }
 }
+

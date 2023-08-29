@@ -1,4 +1,4 @@
-namespace IdentityApp.Data;
+﻿namespace IdentityApp.Data;
 
 public class WeatherForecastService
 {
@@ -17,3 +17,4 @@ public class WeatherForecastService
         }).ToArray());
     }
 }
+
