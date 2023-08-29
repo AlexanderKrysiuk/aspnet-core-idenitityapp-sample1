@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "g5i7DNH9enX5CQMvNmgmNzHFCYgPrLP//4VcLmx9IhQjelmW+pf7fIzAMd3sZANKj9ufbocF6uKP3C2p2Fa9tQ==",
+  "dgSpecHash": "sCsu88bkGWwzujfpe6nMEdIiP4CMDiEYaTrVp2CDXUNmLcpOQgMZsu8EYV+rXKYb7L5E0PA68KIg4HA6FbYIeg==",
   "success": true,
   "projectFilePath": "/Volumes/Workspace/Repositories/aspnet-core-idenitityapp-sample1/IdentityApp/IdentityApp.csproj",
   "expectedPackageFiles": [
